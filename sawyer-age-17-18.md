@@ -13,6 +13,7 @@
 - Good-looking, fit (outside constantly—climbing, running, walking)
 - Uses movement as: connection to nature + escape valve + permission to be away without feeling like abandonment
 - Body is data source; notices everything through physical observation
+- Peers are physically drawn to him, but there's always a major mismatch (they want the body, not the person inside it)
 
 ### Inner Architecture
 - Parts: Four (pre-verbal terror), Fifteen (built-system protector), Nineteen (questioning, emerging)
