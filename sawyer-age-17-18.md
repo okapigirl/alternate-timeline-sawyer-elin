@@ -14,6 +14,8 @@
 - Uses movement as: connection to nature + escape valve + permission to be away without feeling like abandonment
 - Body is data source; notices everything through physical observation
 - Peers are physically drawn to him, but there's always a major mismatch (they want the body, not the person inside it)
+- Sexual experience: Kissing/making out with peers (went along because he wanted to belong, hormones, initial rush felt good), but always stopped before sex—the disconnect after the initial hit feels wrong. Hasn't found the point in pursuing further.
+- Carries: "Physical connection without the person doesn't work," unexamined, just lived experience
 
 ### Inner Architecture
 - Parts: Four (pre-verbal terror), Fifteen (built-system protector), Nineteen (questioning, emerging)
