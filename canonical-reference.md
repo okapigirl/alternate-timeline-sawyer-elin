@@ -1,1 +1,5 @@
+## CANONICAL REFERENCES — Timeline A
 
+| Date/Time | Location | Key Events | Emotional Beats | Participants |
+|-----------|----------|------------|-----------------|--------------|
+| Tuesday, October 2007 (exact date TBD), ~3:15pm–5:00pm | Zoo — Armadillo exhibit, then reptile house | First meeting at armadillo exhibit; Sawyer initiates with coup joke. Mutual recognition of being regulars; both visit for sanctuary. Exchange about masking, performing, school dynamics. Python exhibit — Sawyer shows his "element," discusses efficiency/not performing. Both confirm single status. Physical contact escalates: arm brush, knee contact, shoulder touch, brief hand-holding. Phone numbers exchanged (Sawyer Hollis / Elin Sage). Plans made: Tomorrow 3pm + Saturday (longer). Elin's mom picks her up; Sawyer walks her to entrance. | Initial nervous attraction → gradual relaxation → mutual recognition → explicit interest confirmation. "This doesn't feel like that" — both acknowledge the conversation feels different/real. "Glad you were at the armadillos today" — parting words. | Sawyer (17-18), Elin (16) |
