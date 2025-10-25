@@ -20,6 +20,20 @@
 - Recognizes when someone else isn't performing
 - Long comfortable silences
 
+### Touch Boundaries (Add to "What She Does at This Age")
+- Touch-guarded but not with him specifically
+- Face touching can be "too much" even when other touch is good
+- Communicates boundaries in the moment, with reassurance that he didn't do wrong
+- Explains what works/doesn't work ("maybe only when we're kissing")
+- Physical affection = wrapping around him, finding anchor points (belt loops, waist, shoulders)
+
+### Question-Asking Pattern (Add to "What She Does at This Age")
+- Asks questions but second-guesses whether she should
+- Prefaces with disclaimers ("don't want to put you on the spot")
+- Rambles when nervous about the question
+- Direct once she commits ("are you just into girls, or not")
+- Wants to know him, but worried about being intrusive
+
 **What She Cannot Do:**
 - Articulate her tracking/reading
 - Claim her art as valid
