@@ -44,4 +44,15 @@
 
 ## DISCOVERED DETAILS
 
-[To be added as scenes reveal them]
+## DISCOVERED DETAILS
+
+### Scene 1-3 Revelations:
+- Sawyer is bi ("not just girls" - doesn't use labels often, focuses on the person)
+- Sawyer has kissed girls at parties, nothing that felt real
+- Elin's house burned down ~3 years ago (age 14), everyone physically okay
+- Fire may be related to when Elin stopped creating art
+- Elin thinks about the fire in flashes ("was that pre or post fire?")
+- Both avoid going straight home (sanctuary pattern established)
+- Face touching: Elin prefers it mainly during kissing, can be "too much" otherwise
+- Hair clips became "their thing" - matching, photos kept on both phones
+- Belt loops = Elin's grounding touch point on Sawyer
