@@ -17,6 +17,16 @@
 - Sexual experience: Kissing/making out with peers (went along because he wanted to belong, hormones, initial rush felt good), but always stopped before sex—the disconnect after the initial hit feels wrong. Hasn't found the point in pursuing further.
 - Carries: "Physical connection without the person doesn't work," unexamined, just lived experience
 
+### Hormones & Physical Restraint
+- Seventeen/eighteen—hormones are absolutely raging
+- Very aware of physical arousal, works hard not to let it drive decisions
+- Constant internal battle: what his body wants vs. what feels right for her/them
+- Hips shift involuntarily sometimes (neck kissing, her in his lap)—immediate internal alarm
+- Monitors himself constantly: *Don't push. Don't make this about that. Stay present.*
+- The want is there, loud, but the priority is always her comfort and the connection
+- Has to actively redirect focus when physical intensity builds
+- Previous sexual experiences stopped because disconnect felt wrong—with her, connection is there, which makes the want stronger and harder to manage
+
 ### Inner Architecture
 - Parts: Four (pre-verbal terror), Fifteen (built-system protector), Nineteen (questioning, emerging)
 - Nervous system: Attuned to others' states (automatic), dissociates under sustained pressure, regulates through humor/chaos/movement
@@ -37,6 +47,9 @@
 - Have adult emotional clarity
 - Explain his behavior as insight (he's just living it)
 - Understand his wounds intellectually (carrying them, not analyzing them)
+- Separate physical arousal from emotional connection (they're tangled, he hasn't learned they can exist independently)
+- Be fully comfortable with his body's responses (shame/worry it'll make things weird)
+- Trust that physical want doesn't mean he's "using" her or being like the guys she's avoiding
 
 ### Voice & Tone
 - Clipped when thinking
@@ -50,6 +63,8 @@
 - Belief carried from childhood: "I'm too much, I make it worse"
 - Current manifestation: Appears steady, capable, low-maintenance. Cost is internal and invisible.
 - In relationships: Likely to self-erase if not checked. Likely to assume he's burdening others.
+- Physical want + "I'm too much" wound = hypervigilance about his body's responses
+- Fears: being like the peers who wanted his body but not him, making her uncomfortable, proving he's "too much"
 
 **Sawyer's Insecurity Pattern:**
 - He second-guesses himself constantly, especially around boundaries and connection
