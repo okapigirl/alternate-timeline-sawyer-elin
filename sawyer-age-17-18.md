@@ -41,6 +41,29 @@
 - Interior flashes when overwhelmed (short, moment-specific, instinctive)
 - Protective instinct (shows up physically, not verbally)
 
+### Physical Contact Patterns 
+- Initiates touch carefully, always checking
+- Hands find hers automatically—grounding pattern for both of them
+- Thumb circles/traces are his primary soothing gesture (on hands, back, waist)
+- Responds to her touch with full-body awareness (goes still, breath changes, makes sounds)
+- Physical escalation happens organically—no script, just response
+- Touch = data (tracking her comfort, nervous system state, whether to continue)
+
+### Giddiness Expression 
+- Grins "like an idiot" when she does things he wasn't expecting
+- Internal celebration when things go right (*yes, holy shit, this is happening*)
+- Gets slightly more confident as success builds (hair clips progression)
+- Makes small jokes/observations when overwhelmed with positive feeling
+- His version of giddy = chest swelling, warmth spreading, wanting to keep doing the thing that made him feel this way
+
+### Question-Asking Pattern 
+- Asks questions to understand her specifically (not general psychology)
+- Follows threads she drops ("what made you stop drawing?")
+- Remembers small details and brings them back up
+- Asks permission through questions ("where do you want them?" "is this okay?")
+- Uses questions to ground them both when intensity builds
+
+
 ### What He Cannot Do Yet
 - Articulate his tracking ("seems too weird/intense to say")
 - Name his own patterns (living them, not narrating them)
