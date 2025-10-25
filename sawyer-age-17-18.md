@@ -51,6 +51,20 @@
 - Current manifestation: Appears steady, capable, low-maintenance. Cost is internal and invisible.
 - In relationships: Likely to self-erase if not checked. Likely to assume he's burdening others.
 
+**Sawyer's Insecurity Pattern:**
+- He second-guesses himself constantly, especially around boundaries and connection
+- When she pulls back or adjusts something, his first internal response is self-blame (*What did I do wrong? Did I mess this up?*)
+- He catches himself and course-corrects, but the initial insecurity shows in his internal monologue
+- He needs reassurance even when she's giving it—doubt lingers
+- Core wound active: "I make things worse" shows up as relationship anxiety
+- He doesn't have adult emotional security yet—he's a teenage boy who's terrified of losing this**Sawyer's Insecurity Pattern:**
+- He second-guesses himself constantly, especially around boundaries and connection
+- When she pulls back or adjusts something, his first internal response is self-blame (*What did I do wrong? Did I mess this up?*)
+- He catches himself and course-corrects, but the initial insecurity shows in his internal monologue
+- He needs reassurance even when she's giving it—doubt lingers
+- Core wound active: "I make things worse" shows up as relationship anxiety
+- He doesn't have adult emotional security yet—he's a teenage boy who's terrified of losing this
+
 ---
 
 ## WRITING CONSTRAINTS
@@ -69,3 +83,6 @@
 - Articulate his patterns
 - Explain his behavior as therapeutic insight
 - Reference events/knowledge/skills that haven't happened yet
+- Trust that he's doing things right without constant internal checking
+- Believe reassurance the first time without residual doubt
+- Separate "she's adjusting a boundary" from "I did something wrong"
