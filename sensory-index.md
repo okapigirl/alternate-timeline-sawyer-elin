@@ -41,6 +41,11 @@
 - Car (Elin's): confined space; texting as escape during early pickup (Scene 2)
 - Family dinner table: contrast location; Sawyer performing steadiness while internal state is activated (Scene 2)
 - Nightstand: texting location; ceiling-staring position during processing (Scene 2)
+- Maple & Fifth bench: midpoint meeting location; tree shade, closed coffee shop, private (Scene 3)
+- Café (Scene 6): intimate pause location; forehead-to-forehead "Hi" moment
+- Penguin exhibit bench: thighs pressed together, hands intertwined on knee (Scene 6)
+- Python glass: kissing location, "I love you" whispered (Scene 6 callback to Scene 1 reptile house)
+- Armadillo exhibit closing ritual: Sawyer behind Elin, arms wrapped, chin over shoulder (Scene 6)
 
 ### Emotional/Relational Anchors
 
@@ -51,7 +56,7 @@
 - Mutual "I get that too" moments re: memory blanks, getting obsessed, performing
 - Both avoid going straight home (sanctuary pattern)
 
-**Scene 2 Anchors (New):**
+**Scene 2 Anchors:**
 - Texting as vulnerability permission: both drop masking layers when spatially separated
 - Heart-pounding recognition: physical response to each other's words/presence
 - "Already know you" moment: deep recognition despite hours-long acquaintance
@@ -65,6 +70,35 @@
 - Touch-guarded baseline maintained: no direct discussion of physical touch, but anticipation is present
 - Recognition of being "seen": Elin responds to Sawyer's non-performing authenticity with her own
 
+**Scene 3 Anchors (New):**
+- First kiss location (Maple & Fifth): becomes "their spot" midpoint between homes
+- Sawyer's arrival anticipation: early + waiting pattern established
+- Proximity building: hand-holding as escalation marker
+- "First kiss" as emotional anchor: confirms connection, grounds both in reality
+- Aftermath presence: staying together rather than rushing away
+
+**Scene 4 Anchors (New):**
+- Elin's house as safe space for escalation
+- Parental presence as background awareness (not barrier)
+- Grinding as new physical marker
+- "Girlfriend" explicitly stated (relationship status anchor)
+
+**Scene 5 Anchors (New):**
+- Sawyer's family dinner: performance vs. presence split
+- Caroline & Tom as character witnesses to the relationship
+- Private room time post-dinner: integration + intimacy
+
+**Scene 6 Anchors (New):**
+- Hot chocolate: cold-drink-spiral avoidance logic; held close together
+- Café moment: private lighting, enables "Hi" anchor (forehead-to-forehead, no reason)
+- Hands intertwined on knee: continuous contact pattern throughout day
+- Penguin exhibit: different circuit location, watching together while connected
+- "Twenty-one hours" / "Fourteen and a half hours": countdown as emotional anchor
+- Python glass kissing callback: returns to reptile house intimacy, "I love you" whispered
+- Armadillo closing ritual (signature): Sawyer behind, arms wrapped, chin over shoulder—mirrors opening but with full commitment
+- Extended goodbye kiss: lingering, both reluctant to break contact
+- "I love you" exchange at exit: grounding phrase repeated throughout day
+
 ### Dialogue Anchors
 
 **Scene 1:**
@@ -75,7 +109,7 @@
 - "Glad you made me lose track of time" / "Yeah. Same."
 - "Glad you were at the armadillos today" — Sawyer's parting words
 
-**Scene 2 (New):**
+**Scene 2:**
 - "Hi :)" — Elin's opening; soft, direct, present
 - "Apparently my dad was at the store so he came from there, halving the time. Yay /s" — Elin's sarcasm + disappointment
 - "Already know you even though I just met you" — Elin: deep recognition, vulnerability
@@ -86,10 +120,34 @@
 - "*Tomorrow.*" — Sawyer's interior flash; anticipation anchor
 - "Heart still pounding, entire body still humming" — Sawyer's physical state post-texting
 
+**Scene 3 (New):**
+- "Where do you want them?" / "Is this okay?" — Sawyer's permission-check pattern
+- First kiss confirmation: presence-based rather than verbal
+
+**Scene 4 (New):**
+- "Girlfriend" — explicit relationship status
+
+**Scene 5 (New):**
+- Family dinner navigation (dialogue TBD from scene)
+
+**Scene 6 (New):**
+- "Hi" (café moment, forehead-to-forehead, no particular reason except needing to look at her)
+- "Yeah, you're probably right about that" — Sawyer re: hot chocolate logic
+- "Hot chocolate's perfect" — Sawyer orders without waiting for confirmation
+- Sawyer's soft expression: "forehead dropping to yours"
+- "Twenty-one hours. And then I get you for a whole night."
+- "I keep saying that because I still can't believe it's real."
+- "Tomorrow morning. 10am. Your door." / "I'll be waiting."
+- "I love you" (whispered against python glass during kiss)
+- Extended goodbye kiss (no words)
+- "I love you" / "I love you too" (exit exchange)
+- Ritual closing position (no words; physical anchor)
+
 ### Temporal Anchors
 
 **Scene 1:**
 - 3:15pm–5:00pm: Zoo visit duration
+- "Tomorrow 3pm" + "Saturday": forward planning anchors
 
 **Scene 2:**
 - 5:15pm–5:30pm: Sawyer's walk home
@@ -97,3 +155,48 @@
 - 5:30pm–10:35pm: Extended texting exchange
 - 22:35 (10:35pm): Final goodnight exchange
 - "Tomorrow" as temporal anchor: both characters oriented toward next meeting (3pm Wednesday)
+
+**Scene 3:**
+- Wednesday ~3:00pm: First intentional meetup (off-zoo)
+
+**Scene 4:**
+- Thursday afternoon/evening: Elin's house visit
+
+**Scene 5:**
+- Friday evening: Sawyer's house/family dinner
+
+**Scene 6 (New):**
+- 9:52am: Sawyer arrival (8 minutes early)
+- 10:00am: Planned meeting time; Elin on time
+- ~4:30pm: Afternoon rotation (other exhibits)
+- ~5:00pm: Ritual closing at armadillos
+- 5:15pm: Mom pickup text
+- "Twenty-one hours" countdown: to overnight plans (tomorrow)
+- Transition marker: Full-day presence shifts overnight anticipation from abstract to concrete
+
+### Physical Escalation Timeline
+
+**Scene 1:** Arm brush → knee contact → shoulder touch → brief hand-holding
+**Scene 2:** Texting arousal acknowledgment; no physical contact (distance-based vulnerability)
+**Scene 3:** Hand-holding → proximity → first kiss
+**Scene 4:** Grinding, kissing, increased intimacy (PG-13 bounds)
+**Scene 5:** Family dinner navigation; private room time (intimacy details TBD)
+**Scene 6:** Continuous hand-holding → intertwined on knee → kissing at python glass → wrapping around him (closing position)
+
+### Arousal/Physical State Tracking
+
+**Sawyer (Scene 2):**
+- "Heart still pounding"
+- "Entire body still humming"
+- Physiological awareness of arousal; monitoring response
+
+**Sawyer (Scene 6):**
+- Heart "doing that thing where it's going slightly too fast" (arrival)
+- Actively breathing slower, deeper to ground
+- Giddiness ("grinning like an idiot")
+- Internal celebration when things go right
+- Increasing confidence as day progresses
+
+**Both (Scene 6):**
+- Continuous physical contact as grounding (hands, proximity)
+- "I love you" as emotional + physiological regulator
